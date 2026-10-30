@@ -1,3 +1,6 @@
 Abigail Sinchicay
 Agustina Sánchez
 Danilo Rodriguez
+
+a - Dentro del repositorio que creamos, aparece cuando el repositorio original tiene una actualización y nos da la opción de sincronizarnos mediante "sync fork"
+b - De manera directa no es posible, ya que para hacerlo tendríamos que hacer un fork nuevamente sobre el repositorio de Gamma
